@@ -1,4 +1,4 @@
-# Test the aplication here: https://bucador-de-recetas.vercel.app/
+# The aplication is here: https://bucador-de-recetas.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
